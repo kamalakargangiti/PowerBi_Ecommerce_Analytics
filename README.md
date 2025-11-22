@@ -130,6 +130,7 @@ The dashboard includes:
 - Segment & Category Filters  
 - Top/Bottom Product Visuals  
 - Shipping Mode Analysis
+
 Dashboard Link: https://github.com/kamalakargangiti/PowerBi_Ecommerce_Analytics/blob/main/Ecommerce_Dashboard.PNG
 
   # 🏁 Results & Conclusion
