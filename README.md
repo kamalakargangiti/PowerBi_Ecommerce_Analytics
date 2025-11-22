@@ -20,16 +20,15 @@ A US-based e-commerce company needed a centralized Power BI dashboard to track:
 - Category performance  
 - State-wise sales distribution  
 - Shipping mode efficiency  
-- Top & bottom performing products  
-The challenge was to convert raw sales data into clear, actionable insights.
+- Top & bottom performing products 
 ---
 
 # 📂 Dataset
 
 The dataset contains detailed e-commerce sales transactions with fields including:
 - Order Date  
-- Customer Segment (Consumer, Corporate, Home Office)  
-- Product Category (Office Supplies, Furniture, Technology)  
+- Customer Segment  
+- Product Category   
 - Sales, Profit, Quantity  
 - State & Region  
 - Shipping Mode  
